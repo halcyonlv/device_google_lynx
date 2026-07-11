@@ -3,7 +3,7 @@
 # product partition
 
 # AiAi
-product/priv-app/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02.apk;PRESIGNED
+product/priv-app/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02.apk:product/priv-app/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02_Lynx/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02_Lynx.apk;PRESIGNED
 product/priv-app/DevicePersonalizationPrebuiltPixel2022-playstore_aiai_20250306.00_RC10/DevicePersonalizationPrebuiltPixel2022-playstore_aiai_20250306.00_RC10.apk;PRESIGNED
 
 # Audio
@@ -72,7 +72,7 @@ product/priv-app/DCMO/DCMO.apk
 product/priv-app/DMService/DMService.apk
 product/priv-app/DiagMon/DiagMon.apk
 product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
-product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
+product/priv-app/TetheringEntitlement/TetheringEntitlement.apk:product/priv-app/TetheringEntitlement_Lynx/TetheringEntitlement_Lynx.apk
 
 # VZW
 product/app/VZWAPNLib/VZWAPNLib.apk;PRESIGNED
